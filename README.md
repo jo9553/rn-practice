@@ -1,4 +1,4 @@
-# rn-practice
+# rn-practice - All about React-Native
 some practicing coding for better understanding the functionality of libraries
 
 
